@@ -85,6 +85,8 @@ x_train, x_val, y_train, y_val = train_test_split(
 
 <img width="514" height="482" alt="Screenshot From 2026-02-11 22-16-16" src="https://github.com/user-attachments/assets/88323bf1-6e8b-42b8-bd57-557a08178738" />
 
+<img width="559" height="279" alt="Screenshot From 2026-02-11 22-35-01" src="https://github.com/user-attachments/assets/538d89b4-2649-49c8-a4af-9bf22a411173" />
+
 
 📉 Confusion Matrix Summary
           Predicted
